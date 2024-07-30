@@ -22,10 +22,10 @@ const MainContainer = () => {
           <FaArrowLeft className="text-custom-light-blue text-xl" />
         </div>
         <div className="ml-4">
-          <h2 className="text-3xl font-bold">Incident.</h2>
+          <h2 className="text-3xl font-bold">Incidents.</h2>
         </div>
 
-        <div className="flex ml-[620px] space-x-6 ">
+        <div className="flex ml-[610px] space-x-6 ">
           <div className="w-50 h-12  flex justify-center items-center bg-white rounded-full shadow-md whitespace-nowrap pr-8  ">
             <div className="flex-shrink-0 w-10 h-10 bg-slate-950 rounded-full flex items-center justify-center text-xl text-white">
               B
@@ -121,25 +121,25 @@ const MainContainer = () => {
             <table className="min-w-full divide-y divide-gray-200">
               <thead className="">
                 <tr>
-                  <th className="px-6 py-3 text-left text-xs font-bold text-black-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
                     Asset
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-bold text-black-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
                     Code
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-bold text-black-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
                     Department
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-bold text-black-500 uppercase tracking-wider">
-                    Date and Time
+                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
+                    Date & Time
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-bold text-black-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
                     Downtime
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-bold text-black-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
                     Status
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-bold text-black-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
                     Report
                   </th>
                 </tr>
