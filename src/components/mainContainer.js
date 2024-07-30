@@ -77,7 +77,7 @@ const MainContainer = () => {
       </div>
       <div className="flex flex-row justify-between mt-4 space-x-3 pt-5">
         <div className="w-[930px] h-[75px] bg-white shadow-md flex items-center justify-between px-4 py-2">
-          <div className="flex justify-center items-center">
+          <div className="flex justify-center items-center text-lg">
             <IoIosSearch />
             <input
               className="ml-3 outline-none border-b border-gray-100 placeholder-gray-300"
@@ -98,7 +98,7 @@ const MainContainer = () => {
               <div className="flex justify-end items-center text-lg font-semibold">
                 <LuArrowDownUp />
               </div>
-              <div className="flex justify-end items-center text-lg font-semibold">
+              <div className="flex justify-end items-center text-xl font-semibold ">
                 <AiOutlineDownload />
               </div>
             </div>
@@ -164,7 +164,7 @@ const MainContainer = () => {
                   <td className="px-6 py-4 whitespace-nowrap text-sm text-custom-light-blue">
                     Cleared
                   </td>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm text-black font-medium">
+                  <td className="px-6 py-4 whitespace-nowrap text-2xl text-black font-medium">
                     <AiOutlineDownload />
                   </td>
                 </tr>
@@ -210,7 +210,7 @@ const MainContainer = () => {
                   <td className="px-6 py-4 whitespace-nowrap text-sm text-custom-light-blue">
                     Cleared
                   </td>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm text-black font-medium">
+                  <td className="px-6 py-4 whitespace-nowrap text-2xl text-black font-medium">
                     <AiOutlineDownload />
                   </td>
                 </tr>
@@ -257,7 +257,7 @@ const MainContainer = () => {
                   <td className="px-6 py-4 whitespace-nowrap text-sm text-custom-light-blue">
                     Cleared
                   </td>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm text-black font-medium">
+                  <td className="px-6 py-4 whitespace-nowrap text-2xl text-black font-medium">
                     <AiOutlineDownload />
                   </td>
                 </tr>
@@ -281,7 +281,7 @@ const MainContainer = () => {
                   <td className="px-6 py-4 whitespace-nowrap text-sm text-custom-light-blue">
                     Cleared
                   </td>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm  text-black font-medium">
+                  <td className="px-6 py-4 whitespace-nowrap text-2xl  text-black font-medium ">
                     <AiOutlineDownload />
                   </td>
                 </tr>
