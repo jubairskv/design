@@ -44,7 +44,7 @@ const MainContainer = () => {
           </div>
 
           <div className="flex-shrink-0 w-12 h-12 bg-white shadow  rounded-full flex items-center justify-center">
-            <FaBell className="text-custom-light-blue text-2xl" />
+            <FaBell className="text-black text-2xl" />
           </div>
 
           <div className="flex-shrink-0 w-12 h-12 text-xl text-white bg-black shadow  rounded-full flex items-center justify-center ">
