@@ -56,21 +56,21 @@ const MainContainer = () => {
         <div className="w-[460px] h-[123px] bg-white shadow-md flex  flex-col  px-6 py-2">
           <div className="text-4xl text-custom-light-blue font-bold">04</div>
           <div className="flex flex-row  flex-grow mt-6">
-            <span className="font-bold text-2xl">Incident reported</span>
+            <span className="font-semibold text-2xl">Incident reported</span>
             <FaArrowRight className="text-black text-xl ml-[190px] mt-2" />
           </div>
         </div>
         <div className="w-[460px] h-[123px] bg-white shadow-md flex  flex-col  px-6 py-2">
           <div className="text-4xl text-custom-light-blue font-bold">06</div>
           <div className="flex flex-row  flex-grow mt-6">
-            <span className="font-bold text-2xl">Check In</span>
+            <span className="font-semibold text-2xl">Check In</span>
             <FaArrowRight className="text-black text-xl ml-[280px] mt-2" />
           </div>
         </div>
         <div className="w-[460px] h-[123px] bg-white shadow-md flex  flex-col  px-6 py-2">
           <div className="text-4xl text-custom-light-blue font-bold">03/06</div>
           <div className="flex flex-row  flex-grow mt-6">
-            <span className="font-bold text-2xl">Services open</span>
+            <span className="font-semibold text-2xl">Services open</span>
             <FaArrowRight className="text-black text-xl ml-[230px] mt-2" />
           </div>
         </div>
@@ -121,25 +121,25 @@ const MainContainer = () => {
             <table className="min-w-full divide-y divide-gray-200">
               <thead className="">
                 <tr>
-                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Asset
                   </th>
-                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Code
                   </th>
-                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Department
                   </th>
-                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Date & Time
                   </th>
-                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Downtime
                   </th>
-                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Status
                   </th>
-                  <th className="px-6 py-3 text-left text-base font-semibold text-black-500  tracking-wider">
+                  <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Report
                   </th>
                 </tr>
