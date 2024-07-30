@@ -11,6 +11,7 @@ import {
   FaPhone, // Import icon for Contact Us
   FaSignOutAlt, // Import icon for Logout
 } from "react-icons/fa";
+import { MdOutlineDashboard } from "react-icons/md";
 
 const Sidebar = () => {
   return (
@@ -23,7 +24,7 @@ const Sidebar = () => {
           <ul className="space-y-8 mt-14 pl-8">
             <li>
               <div className="flex items-center p-2 rounded-lg hover:bg-gray-700">
-                <FaTachometerAlt className="mr-2" />
+                <MdOutlineDashboard className="mr-2" />
                 Dashboard
               </div>
             </li>

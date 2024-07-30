@@ -3,7 +3,6 @@ import {
   FaArrowLeft,
   FaChevronDown,
   FaBell,
-  FaTachometerAlt,
   FaArrowRight,
   FaFilter,
 } from "react-icons/fa";
@@ -12,6 +11,7 @@ import { FaPlus } from "react-icons/fa6";
 import { IoIosSearch } from "react-icons/io";
 import { IoIosArrowDown } from "react-icons/io";
 import { LuArrowDownUp } from "react-icons/lu";
+import { MdDashboardCustomize} from "react-icons/md";
 import ".././index.css";
 
 const MainContainer = () => {
@@ -40,7 +40,7 @@ const MainContainer = () => {
             </div>
           </div>
           <div className="flex-shrink-0 w-12 h-12 bg-white shadow rounded-full flex items-center justify-center">
-            <FaTachometerAlt className="text-2xl" />
+            <MdDashboardCustomize className="text-2xl" />
           </div>
 
           <div className="flex-shrink-0 w-12 h-12 bg-white shadow  rounded-full flex items-center justify-center">
