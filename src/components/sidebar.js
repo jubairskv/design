@@ -19,7 +19,7 @@ const Sidebar = () => {
       <div className="flex-1">
         <div className="p-4">
           <div className="p-4 flex items-center justify-center">
-            <h1 className="text-3xl font-bold">Vajar Logo</h1>
+            <h1 className="text-3xl font-bold">Vajra Logo</h1>
           </div>
           <ul className="space-y-8 mt-14 pl-8">
             <li>
