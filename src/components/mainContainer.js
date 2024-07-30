@@ -57,21 +57,21 @@ const MainContainer = () => {
           <div className="text-4xl text-custom-light-blue font-bold">04</div>
           <div className="flex flex-row  flex-grow mt-6">
             <span className="font-bold text-2xl">Incident reported</span>
-            <FaArrowRight className="text-black text-xl ml-10 mt-2" />
+            <FaArrowRight className="text-black text-xl ml-[190px] mt-2" />
           </div>
         </div>
         <div className="w-[460px] h-[123px] bg-white shadow-md flex  flex-col  px-6 py-2">
           <div className="text-4xl text-custom-light-blue font-bold">06</div>
           <div className="flex flex-row  flex-grow mt-6">
             <span className="font-bold text-2xl">Check In</span>
-            <FaArrowRight className="text-black text-xl ml-10 mt-2" />
+            <FaArrowRight className="text-black text-xl ml-[280px] mt-2" />
           </div>
         </div>
         <div className="w-[460px] h-[123px] bg-white shadow-md flex  flex-col  px-6 py-2">
           <div className="text-4xl text-custom-light-blue font-bold">03/06</div>
           <div className="flex flex-row  flex-grow mt-6">
             <span className="font-bold text-2xl">Services open</span>
-            <FaArrowRight className="text-black text-xl ml-10 mt-2" />
+            <FaArrowRight className="text-black text-xl ml-[230px] mt-2" />
           </div>
         </div>
       </div>
