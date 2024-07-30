@@ -16,9 +16,9 @@ import ".././index.css";
 
 const MainContainer = () => {
   return (
-    <div className="flex flex-col items-start p-8 w-80 h-screen">
+    <div className="flex flex-col items-start p-8 w-80 h-screen ">
       <div className="flex items-center  mb-4">
-        <div className="flex-shrink-0 w-10 h-10 bg-gray-200 rounded-full flex items-center justify-center">
+        <div className="flex-shrink-0 w-10 h-10 bg-white  rounded-full flex items-center justify-center">
           <FaArrowLeft className="text-custom-light-blue text-xl" />
         </div>
         <div className="ml-4">
@@ -33,21 +33,21 @@ const MainContainer = () => {
             <div className="ml-2">Non Bio Medical</div>
           </div>
 
-          <div className="w-50 h-12  flex justify-center items-center bg-white rounded-full shadow-md whitespace-nowrap pr-4 pl-4 ">
+          <div className="w-50 h-12  flex justify-center items-center bg-white  rounded-full shadow-md whitespace-nowrap pr-4 pl-4 ">
             <div className="pr-4">Vijayanagar</div>
             <div className="ml-4">
               <FaChevronDown className="text-black" />
             </div>
           </div>
-          <div className="flex-shrink-0 w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center">
+          <div className="flex-shrink-0 w-12 h-12 bg-white shadow rounded-full flex items-center justify-center">
             <FaTachometerAlt className="text-2xl" />
           </div>
 
-          <div className="flex-shrink-0 w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center">
+          <div className="flex-shrink-0 w-12 h-12 bg-white shadow  rounded-full flex items-center justify-center">
             <FaBell className="text-custom-light-blue text-2xl" />
           </div>
 
-          <div className="flex-shrink-0 w-12 h-12 text-xl bg-gray-200 rounded-full flex items-center justify-center ">
+          <div className="flex-shrink-0 w-12 h-12 text-xl text-white bg-black shadow  rounded-full flex items-center justify-center ">
             A
           </div>
         </div>
