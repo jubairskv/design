@@ -133,8 +133,8 @@ const MainContainer = () => {
                   <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Date & Time
                   </th>
-                  <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
-                    Downtime
+                  <th className="px-6 py-3 text-left text-base font-bold  text-black-500  tracking-wider">
+                    Down Time
                   </th>
                   <th className="px-6 py-3 text-left text-base font-bold text-black-500  tracking-wider">
                     Status
