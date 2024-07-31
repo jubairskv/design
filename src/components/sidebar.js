@@ -1,4 +1,3 @@
-
 import React from "react";
 import {
   FaTachometerAlt,
@@ -8,8 +7,8 @@ import {
   FaUsers,
   FaFileAlt,
   FaChevronDown,
-  FaPhone, // Import icon for Contact Us
-  FaSignOutAlt, // Import icon for Logout
+  FaPhone,
+  FaSignOutAlt,
 } from "react-icons/fa";
 import { MdOutlineDashboard } from "react-icons/md";
 

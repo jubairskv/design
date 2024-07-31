@@ -11,7 +11,7 @@ import { FaPlus } from "react-icons/fa6";
 import { IoIosSearch } from "react-icons/io";
 import { IoIosArrowDown } from "react-icons/io";
 import { LuArrowDownUp } from "react-icons/lu";
-import { MdDashboardCustomize} from "react-icons/md";
+import { MdDashboardCustomize } from "react-icons/md";
 import ".././index.css";
 
 const MainContainer = () => {
